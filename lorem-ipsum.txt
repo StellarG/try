@@ -4,3 +4,5 @@ things i shoul learn right now
 -learn reactJS
 -learn php oop
 -framework javascript
+-framework php
+-flutter

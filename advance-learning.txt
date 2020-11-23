@@ -5,4 +5,5 @@ next thing i should learn:
 -learn vueJS
 -learn PostgreSQL
 -learn Python
+-learn MongoDB
 
