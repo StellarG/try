@@ -1,0 +1,3 @@
+next thing i should learn:
+-learn ajax
+-learn laravel livewire and homestead
