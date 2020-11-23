@@ -2,6 +2,7 @@ next thing i should learn:
 -learn ajax
 -learn laravel livewire and homestead
 -belajar struktur data
--learn angularJS
--learn Flutter
--learn code igniter
+-learn vueJS
+-learn PostgreSQL
+-learn Python
+
